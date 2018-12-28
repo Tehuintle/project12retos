@@ -35,6 +35,7 @@
             Crea tu cuenta con tu correo o con Facebook
           </div>
         </div>
+        <br class="d-block d-sm-block d-md-none d-lg-none d-xl-none"><br class="d-block d-sm-block d-md-none d-lg-none d-xl-none">
       </div>
       <div class="col-md-4" align="center">
         <span class="dot align-middle" align="center">2</span>
@@ -44,6 +45,7 @@
             Establece todos los objetivos que deseas alcanzar en la vida
           </div>
         </div>
+        <br class="d-block d-sm-block d-md-none d-lg-none d-xl-none"><br class="d-block d-sm-block d-md-none d-lg-none d-xl-none">
       </div>
       <div class="col-md-4" align="center">
         <span class="dot align-middle" align="center">3</span>
@@ -65,10 +67,10 @@
         <h2>Descarga la app</h2>
         <br><br>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-6" align="center">
         <img src="{{ asset('img/app.png') }}" class="img-fluid" alt="12 retos">
       </div>
-      <div class="col-md-6">
+      <div class="col-md-6" align="center">
         <br><br><br><br><br><br>
         <img src="{{ asset('img/ios.png') }}" class="img-fluid" alt="12 retos" style="width:250px;height:80px">
         <br><br>
